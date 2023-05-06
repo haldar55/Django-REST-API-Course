@@ -4,6 +4,8 @@ django-admin startproject udemy_drf_project
 
 python manage.py startapp profiles_api
 
+python manage.py migrate
+
 -- GIT COMMANDS
 
 git add .
