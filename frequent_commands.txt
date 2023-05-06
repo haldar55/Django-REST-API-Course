@@ -1,0 +1,11 @@
+-- Django Commands
+
+django-admin startproject udemy_drf_project
+
+python manage.py startapp profiles_api
+
+-- GIT COMMANDS
+
+git add .
+git commit -am "message"
+git push origin 
